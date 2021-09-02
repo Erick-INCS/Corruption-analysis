@@ -8,4 +8,11 @@
 </div>
 
 # Anexos
-
+### Enlace del Notebook en Colab
+<div align="center">
+  <p>
+    <a href="https://colab.research.google.com/github/Erick-INCS/Corruption-analysis/blob/main/Corrupt_Analysis.ipynb" target="_parent">
+      <img alt="Open In Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+    </a>
+  </p>
+</div>
