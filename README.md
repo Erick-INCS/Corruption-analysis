@@ -1,6 +1,6 @@
 # Análisis de la corrupción en mexico
 
-Para el avance de la unidad de machine learning acceder a la carpeta [Corrupt_ML](Corrupt_ML)
+Para el avance de la unidad de machine learning acceder a la carpeta [Corrupt_ML](https://github.com/Forever-D14/Corrupt_ML)
 
 **Nota:** El presente repositorio se encuentra unicamente la fase de analisis de datos, por lo que la fase de procesamiento de los datos y recoleccion de la informacion se encuentra documentada en el siguiente repositorio:
 <div align="center">
