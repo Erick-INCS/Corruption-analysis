@@ -45,3 +45,12 @@ def describe_chido(df, columnas = []):
   descripcion.loc['mediana'] = df.median()
   descripcion.loc['rango'] = df.max() - df.min()
   return descripcion
+
+
+def get_ds_pres_presi():
+    df_pres = pd.read_parquet('https://github.com/Erick-INCS/Corruption-analysis/blob/main/datasets/presupuesto_2017-2020.parquet?raw=true')
+    df_pres['ENTIDAD_FEDERATIVA'] = df_pres['ENTIDAD_FEDERATIVA'].map(renom_estados)
+    peña = 2013
+    df_pres = df_pres[df_pres['CICLO_RECURSO'] >= peña]
+    df_pres['es_peña'] = df_pres['CICLO_RECURSO'] < 2019
+    return df_pres
