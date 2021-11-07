@@ -1,5 +1,7 @@
 """"Utilidades para este proyecto."""
 
+import pandas as pd
+
 def renom_estados(name):
   estados = {
     'Michoacán de Ocampo': 'Michoacán', 
