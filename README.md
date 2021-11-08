@@ -12,7 +12,7 @@ Se considera a la corrupción como uno de los más relevantes obstáculos para e
 </p>
 
 ## Equipo 8
-<p align="center"><img src="img/giphy.gif" /></p>
+<p align="center"><img src="https://github.com/Erick-INCS/Bedu-py/blob/main/img/giphy.gif?raw=true" /></p>
 
 - [Angelica Domínguez Cabello](https://github.com/AngelicaDC)
 - [Erick Manuel Arroyo Gonzalez](https://github.com/Erick-INCS)
